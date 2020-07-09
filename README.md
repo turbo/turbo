@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there :coffee:
+
+yo.
 
 <!--
 **turbo/turbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![HitCount](http://hits.dwyl.com/turbo/turbo.svg)](http://hits.dwyl.com/turbo/turbo)
+<img src="http://hits.dwyl.com/turbo/turbo.svg" width=1 /> <i>&mdash; turbo (turbo@tilde.club)</i>
