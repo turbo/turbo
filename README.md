@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="http://hits.dwyl.com/turbo/turbo.svg" width=1 /> <i>&mdash; turbo (turbo@tilde.club)</i>
+<img src="http://hits.dwyl.com/turbo/turbo.svg" width=1 /> <i>&mdash; turbo (turbo@elasticwaffle.com)</i>
