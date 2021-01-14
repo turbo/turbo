@@ -42,4 +42,4 @@ Check out my <s>soundcloud</s> codez:
 - [justContext.js](https://github.com/turbo/justContext.js): Styleable context menu in pure JS (no jQuery).
 - [HotSALSA](https://github.com/turbo/HotSALSA): Hotkey synchronized ALSA volume control
 
-<img src="http://hits.dwyl.com/turbo/turbo.svg" width=1 /> <i>&mdash; turbo (turbo@elasticwaffle.com)</i>
+<img src="http://hits.dwyl.com/turbo/turbo.svg" width=1 /> <i>
