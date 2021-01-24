@@ -2,6 +2,8 @@
 
 Check out my <s>soundcloud</s> codez:
 
+Want to support me? Donations welcome (BTC only): `3GWmxnnEjJCnqKKtPFtJseCgF3hUMEt13p`
+
 #### Data Science & DBA
 
 - [pg-costop](https://github.com/turbo/pg-costop): Vector Arithmetic and Weighted Cosine Similarity in Postgres
