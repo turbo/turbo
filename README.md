@@ -2,8 +2,6 @@
 
 Check out my <s>soundcloud</s> codez:
 
-Want to support me? Donations welcome (BTC only): `3GWmxnnEjJCnqKKtPFtJseCgF3hUMEt13p`
-
 #### Data Science & DBA
 
 - [pg-costop](https://github.com/turbo/pg-costop): Vector Arithmetic and Weighted Cosine Similarity in Postgres
@@ -27,7 +25,6 @@ Want to support me? Donations welcome (BTC only): `3GWmxnnEjJCnqKKtPFtJseCgF3hUM
 #### Hacks
 
 - [FormulaCompiler](https://github.com/turbo/FormulaCompiler): Compile any code to basic mathematical formulas. [DEMO](https://turbo.js.org/FormulaCompiler/)
-- [Perseus](https://github.com/turbo/Perseus): Perseus Programming Language (Windows), Integrated Assembler & Linker
 - [treetop](https://github.com/turbo/treetop): Accurate memory and CPU usage stats for a linux process tree.
 - [NanoCL](https://github.com/turbo/NanoCL): Zero-Overhead bare-metal GPGPU library for C++ on Windows.
 - [bee](https://github.com/turbo/bee): Text editor written in pure Bash 3
@@ -43,5 +40,3 @@ Want to support me? Donations welcome (BTC only): `3GWmxnnEjJCnqKKtPFtJseCgF3hUM
 
 - [justContext.js](https://github.com/turbo/justContext.js): Styleable context menu in pure JS (no jQuery).
 - [HotSALSA](https://github.com/turbo/HotSALSA): Hotkey synchronized ALSA volume control
-
-<img src="http://hits.dwyl.com/turbo/turbo.svg" width=1 /> <i>
