@@ -12,10 +12,6 @@ Check out my <s>soundcloud</s> codez:
 - [openftp4](https://github.com/turbo/openftp4): A list of all FTP servers in IPv4 that allow anonymous logins.
 - [c4](https://github.com/turbo/c4): Open IP cameras in IPv4
 
-#### Networking
-
-- [nuTLS](https://github.com/turbo/nuTLS): Minimal, modern, dependency-free TLS 1.2 and 1.3 server/client library for x64 Linux.
-
 #### Media & GFX
 
 - [Kafka](https://github.com/turbo/Kafka): Smallest possible C/++ GLSL framework (~550B) for demo-coding.
